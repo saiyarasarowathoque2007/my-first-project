@@ -1,0 +1,81 @@
+
+body{
+
+    color: #3f3b5d;
+    font-family: sans-serif;
+    line-height: 26px;
+}
+
+.container{
+    padding-left: 5%;
+    display: inline-block;
+    
+}
+.welcome_left{
+width: 50%;
+float: left;
+
+
+
+
+}
+
+.welcome_right{
+    width: 50%;
+    float: right;
+
+}
+
+.purple_color{
+     color: #8845f4;
+}
+
+h1{
+
+    font-size: 40px;
+}
+
+.primary_btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+
+
+}
+.primary_btn:hover{
+    background-color: white ;
+    color:#8845f4;
+    border:1px solid #8845f4;
+}
+
+.welcome_image{
+    width: 50%;
+    padding-left: 25%;
+
+}
+
+.dream_left{
+
+    width: 50%;
+    float: left;
+
+
+}
+
+.dream_right{
+
+    width: 50%;
+    float: right;
+}
+
+.dream_image{
+
+    width: 50%;
+    padding-left: 5%;
+
+}
